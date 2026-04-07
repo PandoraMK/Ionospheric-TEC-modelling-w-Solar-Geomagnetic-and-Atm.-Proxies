@@ -14,7 +14,7 @@ MSc-level project analysing Total Electron Content (TEC) trends at three South A
 ---
 
 ## Data
-- **VTEC**: 30-second interval data from IonolabTEC, filtered to 10:00–14:00 UTC (local noon), 2000–2023
+- **VTEC**: 30-second interval data from IonolabTEC (https://www.ionolab.org/), filtered to 10:00–14:00 UTC (local noon), 2000–2023
 - **F10.7**: Monthly solar radio flux index
 - **MgII**: Core-to-wing UV solar proxy
 - **Dst / Ap**: Hourly geomagnetic indices, averaged monthly
