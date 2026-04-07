@@ -1,0 +1,2 @@
+/home/user/Documents/MScResearch/2024/Software/ionolabtecv1.41/SAIP2026/GITHUB/GNSS_Stations.zip filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
