@@ -1,6 +1,6 @@
 # VTEC Trend Analysis — South African GNSS Stations
 
-MSc research project analysing Total Electron Content (TEC) trends at three South African GNSS stations using multiple solar and geomagnetic proxies.
+MSc-level project analysing Total Electron Content (TEC) trends at three South African GNSS stations using multiple solar and geomagnetic proxies.
 
 ---
 
